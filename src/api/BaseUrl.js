@@ -1,3 +1,3 @@
-const base_url = "http://localhost:8080/";
+const base_url = "http://3.141.16.145:8080/";
 
 export default base_url;
